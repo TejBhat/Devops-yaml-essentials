@@ -1,1 +1,0 @@
-# Devops-yaml-essentials
