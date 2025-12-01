@@ -1,8 +1,8 @@
-collect:"LEARNING YAML"
+collect: "LEARNING YAML"
 ---
 #Lists
 Countries:
--India
--America
--Japan
+  -India
+  -America
+  -Japan
 ...

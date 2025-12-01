@@ -1,0 +1,13 @@
+likings: &like
+  mylike: banana
+  dislike: apple
+
+person1:
+  mylike: banana
+  dislike: apple
+
+person2:
+  <<: *like
+#Here &like = creates an anchor named like
+# *like = references the anchor
+# <<: = YAML merge key (used to merge mappings)
