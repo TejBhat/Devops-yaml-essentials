@@ -1,0 +1,9 @@
+people: !!omap
+ -tj:
+  name:tj
+  age:21
+  height:175
+ -sam:
+  name:sam
+  age:27
+  height:180 
